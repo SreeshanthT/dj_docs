@@ -1,8 +1,11 @@
 # Introduction
-A docstring is a string literal that is used to document a Python module, function, class, or method. It is a best practice to include a docstring for every function and class you write in Python, as it helps others understand your code and its purpose. Here is how you can create a docstring in Python:
+A docstring is a string literal that is used to document a Python module, function, class, or method. 
+It is a best practice to include a docstring for every function and class you write in Python, as it helps others 
+understand your code and its purpose. Here is how you can create a docstring in Python:
 - After the summary, add an empty line, followed by a more detailed description of the function or class.
 
-- Use descriptive language to explain the purpose of the function or class, and include information about the inputs, outputs, and any exceptions that may be raised.
+- Use descriptive language to explain the purpose of the function or class, and include information about the inputs, 
+outputs, and any exceptions that may be raised.
 
 - If the function or class has parameters, list them along with their data types and a brief description of their purpose.
 
